@@ -33,15 +33,15 @@ git clone https://github.com/yourusername/restock.git
 - **Navigate into the project directory**:
 
   ```bash
-cd restock
+  cd restock
 
 - **Install the dependencies**:
   ```bash
-npm install
+  npm install
 
 -  **Run the app**:
   ```bash
-expo start
+  expo start
 
 You can now use Expo Go on your mobile device or run the project in a simulator.
 
@@ -49,15 +49,15 @@ You can now use Expo Go on your mobile device or run the project in a simulator.
 
 - **Navigate to the backend folder**:
   ```bash
-cd backend
+  cd backend
 
 - **Install backend dependencies**:
   ```bash
-npm install
+  npm install
 
 - **Start the Node.js server**:
   ```bash
-npm run start
+  npm run start
 
 ## Usage
 Sign Up / Log In: Users can sign up or log in to start purchasing groceries.
