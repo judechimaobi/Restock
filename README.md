@@ -42,9 +42,9 @@ Before you start, ensure you have the following installed on your machine:
   ```bash
   expo start
 
-
-- **tyyty**:
-
+Or
+  ```bash
+  npm start
 
 You can now use Expo Go on your mobile device or run the project in a simulator.
 
