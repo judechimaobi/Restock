@@ -29,9 +29,8 @@ Before you start, ensure you have the following installed on your machine:
 
 - **Clone the repository to your local machine**:
   ```bash
-git clone https://github.com/yourusername/restock.git
+  git clone https://github.com/yourusername/restock.git
 - **Navigate into the project directory**:
-
   ```bash
   cd restock
 
@@ -42,6 +41,9 @@ git clone https://github.com/yourusername/restock.git
 -  **Run the app**:
   ```bash
   expo start
+
+- **tyyty**:
+
 
 You can now use Expo Go on your mobile device or run the project in a simulator.
 
