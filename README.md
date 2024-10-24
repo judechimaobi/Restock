@@ -46,7 +46,7 @@ Or
   ```bash
   npm start
 
-You can now use Expo Go on your mobile device or run the project in a simulator.
+*You can now use Expo Go on your mobile device or run the project in a simulator.*
 
 ### Backend Setup (Node.js)
 
