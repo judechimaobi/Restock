@@ -41,13 +41,6 @@ Before you start, ensure you have the following installed on your machine:
 - **Run the app**:
   ```bash
   expo start
-
-Or
-  ```bash
-  npm start
-
-*You can now use Expo Go on your mobile device or run the project in a simulator.*
-
 ### Backend Setup (Node.js)
 
 - **Navigate to the backend folder**:
@@ -63,46 +56,33 @@ Or
   npm run start
 
 ## Usage
-Sign Up / Log In: Users can sign up or log in to start purchasing groceries.
-Browse and Search: Browse the product categories or use the search functionality to find specific items.
-Cart and Checkout: Add items to the cart and proceed to checkout to complete the purchase.
-Track Orders: View the status of your order within the app.
-Project Structure
-bash
-Copy code
-restock/
-├── assets/                # Images, fonts, and other assets
-├── components/            # Reusable components used throughout the app
-├── navigation/            # Navigation logic
-├── screens/               # Application screens (Home, Cart, Orders, etc.)
-├── services/              # API services and data fetching
-├── App.js                 # Entry point of the application
-└── package.json           # Project metadata and dependencies
-Contributing
-Contributions are welcome! To contribute:
+- **Sign Up / Log In**: Users can sign up or log in to start purchasing groceries.
+- **Browse and Search**: Browse the product categories or use the search functionality to find specific items.
+- **Cart and Checkout**: Add items to the cart and proceed to checkout to complete the purchase.
+- **Track Orders**: View the status of your order within the app.
 
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes and commit:
-bash
-Copy code
-git commit -m "Add feature description"
-Push to your branch:
-bash
-Copy code
-git push origin feature/your-feature-name
-Open a pull request on GitHub.
-License
+## Contributing
+Contributions are welcome!
+To contribute:
+- **Fork the repository.**
+- **Create a new branch**:
+  ```bash
+  git checkout -b feature/your-feature-name
+
+- **Make your changes and commit**:
+  ```bash
+  git commit -m "Add feature description"
+
+- **Push to your branch**:
+  ```bash
+  git push origin feature/your-feature-name
+
+- **Open a pull request on GitHub.**
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or inquiries, please contact:
-
-Email: support@restockapp.com
-Website: restockapp.com
-
-
-Turn this to markdown
+Email: restockapp@gmail.com
+Website: kulvix.com
